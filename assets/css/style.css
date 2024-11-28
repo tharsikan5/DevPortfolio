@@ -301,7 +301,7 @@ article.active {
 \*-----------------------------------*/
 
 main {
-  margin: 15px 25px;
+  margin: 15px 12px;
   margin-bottom: 50px;
   min-width: 259px;
 }
@@ -315,7 +315,7 @@ main {
 \*-----------------------------------*/
 
 .sidebar {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   max-height: 112px;
   overflow: hidden;
   transition: var(--transition-2);
